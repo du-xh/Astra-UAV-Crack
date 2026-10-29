@@ -1,0 +1,11 @@
+# Python3.8, PyTorch2.0.1+cu118. Install torch/mmcv using README commands first.
+mmengine==0.10.7
+numpy==1.24.4
+opencv-python==4.8.1.78
+Pillow==10.4.0
+matplotlib==3.7.5
+packaging==24.2
+PyYAML==6.0.2
+rich==13.9.4
+onnx==1.15.0
+onnxruntime==1.17.3

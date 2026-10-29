@@ -1,0 +1,14 @@
+*.pth
+*.pt
+*.onnx
+*.zip
+__pycache__/
+*.pyc
+.venv/
+external/
+work_dirs/
+outputs/
+teacher_cache*/
+UAV-Crack-dataset/
+data/
+.DS_Store

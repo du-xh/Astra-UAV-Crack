@@ -1,0 +1,6 @@
+name: astra_uavcrack
+channels:
+  - defaults
+dependencies:
+  - python=3.8.20
+  - pip
