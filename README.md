@@ -24,7 +24,7 @@ python -m pip install -r requirements.txt
 
 ## 推理与导出
 
-权重放入 `weights/`，下载信息见 [download_links.json](download_links.json)（网盘链接待补充）。数据从赛事官方获取。以下命令在仓库根目录执行：
+权重下载：[百度网盘](https://pan.baidu.com/s/1i2ovHhx6NyrPg1xu20Su6w?pwd=khxk)，提取码：`khxk`。解压后将权重放入 `weights/`。数据从赛事官方获取。以下命令在仓库根目录执行：
 
 ```bash
 DATA_ROOT=/path/to/UAV-Crack-dataset
